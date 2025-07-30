@@ -1,0 +1,48 @@
+
+
+    // fun(40,42);
+    // public static void fun(int x,int w){
+    //     int y=0;
+    //     if((x%w==0) || (w%x==0)) y=y+1;
+    //     else y=y+10;
+    //     System.out.println(y);
+    // }
+
+
+    // Q2 - Integer a
+    // Set a = 1;
+    // While(a < 5)
+    //     a = a + 2
+    // end While
+    // Print a
+
+    // Output - 5
+
+
+    //Q3
+    // fun(8,8)
+    // Integer fun(Integer a,Integer b){
+    //     if(a&&b&&a+b>0){
+    //         return a+fun(a-2,b-2)+b;
+    //     }
+    //     return a^b;
+    // }
+
+
+    // public static int fun(int a,int b){
+    //     if(a && b && a+b>0){
+    //         return a+fun(a-2,b-2)+b;
+    //     }
+    //     return a^b;
+    // }
+
+    //Q4
+    // public static void fun(){
+    //     int a=3,b=3;
+    //     a=b;
+    //     if(1^1) a=1;
+    //     else b=2;
+    //     System.out.println(a+b);
+    // }
+
+    
